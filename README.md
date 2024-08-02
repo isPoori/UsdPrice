@@ -4,5 +4,5 @@ Telegram CHANNEL : @OmgaDeveloper
 ----
 THIS BOT FOR GET USD PRICE
 ----
-IMPORT :
+libraries :
 pip install python-telegram-bot requests
